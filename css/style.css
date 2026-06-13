@@ -631,6 +631,18 @@ img { max-width: 100%; display: block; }
 
 .contact-email:hover { color: var(--accent-hover); }
 
+.form-wrap {
+  background: white;
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  box-shadow: var(--shadow);
+}
+
+.form-wrap iframe {
+  display: block;
+  width: 100%;
+}
+
 /* ============================================================
    Footer
    ============================================================ */
