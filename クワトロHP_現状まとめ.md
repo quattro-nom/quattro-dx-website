@@ -53,7 +53,7 @@
 
 ### Googleフォーム
 - **フォーム**: nomura@quattro-dx.com アカウントで管理
-- **埋め込みURL**: `https://docs.google.com/forms/d/e/1FAIpQLSdBzXjctq31U98fbVyf3F08_egynD4SygJSVHJBZtS8D1xDww/viewform?embedded=true`
+- **埋め込みURL**: `https://docs.google.com/forms/d/e/1FAIpQLSdsYzXiJMxIGFzT8d3QVr0osou-XyYG9cfdeqprYfUi1eqaow/viewform?embedded=true`
 - **フォーム項目**: お名前 / 会社名・屋号 / メールアドレス / お電話番号 / お問い合わせ種別 / お問い合わせ内容
 
 ### スプレッドシート
